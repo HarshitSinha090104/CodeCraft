@@ -2,9 +2,7 @@
 A real-time code editor for HTML, CSS &amp; JS built using React
 # ⚔️CodeCraft – Live Code Editor 
 
-**CodeCraft** is a browser-based code editor that lets you write and preview **HTML**, **CSS**, and **JavaScript** in real-time — directly from your browser. Think of it as your personal coding battle ground where you practice, build, and test ideas instantly. Built with **React.js**, DevArena offers a clean and responsive environment for frontend experimentation.
-
----
+**CodeCraft** is a browser-based code editor that lets you write and preview **HTML**, **CSS**, and **JavaScript** in real-time — directly from your browser. Think of it as your personal coding battle ground where you practice, build, and test ideas instantly.
 
 ## 🚀 Features
 
