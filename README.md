@@ -1,6 +1,7 @@
 # CodeCraft
 A real-time code editor for HTML, CSS &amp; JS built using React
 # ⚔️CodeCraft – Live Code Editor 
+🔗 **Live Demo:** [document-summarizer-ten.vercel.app](https://code-craft-lyart-psi.vercel.app/)  
 
 **CodeCraft** is a browser-based code editor that lets you write and preview **HTML**, **CSS**, and **JavaScript** in real-time — directly from your browser. Think of it as your personal coding battle ground where you practice, build, and test ideas instantly.
 
